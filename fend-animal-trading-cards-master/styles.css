@@ -1,0 +1,24 @@
+/* add your CSS here */
+.info {
+    border-style: ridge;
+    padding: 1em;
+}
+
+h3 {
+    padding: 1em;
+}
+
+img {
+    padding: 1em;
+}
+
+.fact {
+    font-style: italic;
+    border-style: inset;
+    padding: 1em;
+}
+
+li {
+    font-weight: bold;
+    list-style: none;
+}
